@@ -1,0 +1,8 @@
+{
+  "number":1,
+  "slug":"level-1",
+  "title":"The beginning",
+  "string":"Welcome to\nVim&Dragons\ncomplete the quest,\nsave the world,\nand become a VIM master",
+  "field": "B.........\n----------.\n...................\n.--------------\n......................E",
+  "initial_objects":[]
+}
